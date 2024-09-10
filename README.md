@@ -1,10 +1,10 @@
-# Practical Application Assignment 5.1
+# Coupon Acceptance Analysis
 ## Will the Customer Accept the Coupon?
 
 by Murat Tulca
 
 jupyter notebook:
-https://github.com/spybart/assignment_5_1/blob/main/assignment_5_1.ipynb
+https://github.com/spybart/coupon_acceptance_analysis/blob/main/assignment_5_1.ipynb
 
 ## Goal: Investigate characteristics of customers that are more likely to accept coupons.
 
